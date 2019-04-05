@@ -12,5 +12,5 @@ Tamma is continuously scaling up its operations to harness customers’ confiden
 ## Innovative Solutions
 We use a variety of technologies to create generic solutions that address consumers’ and industries’ automation challenges.
 
-* [School Management Software Solution] (https://www.schoolmass.com)
+* [School Management Software Solution](https://www.schoolmass.com)
 * comming soon
