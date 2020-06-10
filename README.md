@@ -13,4 +13,6 @@ Tamma is continuously scaling up its operations to harness customers’ confiden
 We use a variety of technologies to create generic solutions that address consumers’ and industries’ automation challenges.
 
 * [School Management Software Solution](https://www.schoolmass.com)
+* [eWallie Online Payment Platform](https://www.ewallie.com)
+* [Liberian Education Statistics](http://www.moedashboard.org)
 * comming soon
